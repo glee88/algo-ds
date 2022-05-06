@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/glee/OneDrive%20-%20Lander%20University/Documents/NetBeansProjects/Algo%20Data%20Structure/src/hashtable/Hashnode.java</file>
+            <file>file:/C:/Users/glee/OneDrive%20-%20Lander%20University/Documents/NetBeansProjects/Algo%20Data%20Structure/src/graph/adjMatrixGraph/APSP_FloydWarshall.java</file>
+            <file>file:/C:/Users/glee/OneDrive%20-%20Lander%20University/Documents/NetBeansProjects/Algo%20Data%20Structure/src/trees/binarySearchTree/BinarySearchTree.java</file>
+            <file>file:/C:/Users/glee/OneDrive%20-%20Lander%20University/Documents/NetBeansProjects/Algo%20Data%20Structure/src/heaps/Heap.java</file>
+            <file>file:/C:/Users/glee/OneDrive%20-%20Lander%20University/Documents/NetBeansProjects/Algo%20Data%20Structure/src/trees/avlTree/AVLTree.java</file>
+            <file>file:/C:/Users/glee/OneDrive%20-%20Lander%20University/Documents/NetBeansProjects/Algo%20Data%20Structure/src/graph/adjacentListGraph/AdjListGraph.java</file>
+            <file>file:/C:/Users/glee/OneDrive%20-%20Lander%20University/Documents/NetBeansProjects/Algo%20Data%20Structure/src/graph/adjacentListGraph/MSTPrim.java</file>
+            <file>file:/C:/Users/glee/OneDrive%20-%20Lander%20University/Documents/NetBeansProjects/Algo%20Data%20Structure/src/linkedLists/CircleList.java</file>
+            <file>file:/C:/Users/glee/OneDrive%20-%20Lander%20University/Documents/NetBeansProjects/Algo%20Data%20Structure/src/graph/adjacentListGraph/Dijikstra.java</file>
+            <file>file:/C:/Users/glee/OneDrive%20-%20Lander%20University/Documents/NetBeansProjects/Algo%20Data%20Structure/src/sort/QuickSortPractice.java</file>
+            <file>file:/C:/Users/glee/OneDrive%20-%20Lander%20University/Documents/NetBeansProjects/Algo%20Data%20Structure/src/trees/BinaryTreeNode.java</file>
+            <file>file:/C:/Users/glee/OneDrive%20-%20Lander%20University/Documents/NetBeansProjects/Algo%20Data%20Structure/src/linkedLists/LinkedList.java</file>
+            <file>file:/C:/Users/glee/OneDrive%20-%20Lander%20University/Documents/NetBeansProjects/Algo%20Data%20Structure/src/trie/Trie.java</file>
+            <file>file:/C:/Users/glee/OneDrive%20-%20Lander%20University/Documents/NetBeansProjects/Algo%20Data%20Structure/src/trees/avlTree/AVLTreeNode.java</file>
+            <file>file:/C:/Users/glee/OneDrive%20-%20Lander%20University/Documents/NetBeansProjects/Algo%20Data%20Structure/src/hashtable/openaddress/Hashtable.java</file>
+            <file>file:/C:/Users/glee/OneDrive%20-%20Lander%20University/Documents/NetBeansProjects/Algo%20Data%20Structure/src/trees/binarySearchTree/BinarySearchTreeNode.java</file>
+            <file>file:/C:/Users/glee/OneDrive%20-%20Lander%20University/Documents/NetBeansProjects/Algo%20Data%20Structure/src/trees/BinaryTree.java</file>
+            <file>file:/C:/Users/glee/OneDrive%20-%20Lander%20University/Documents/NetBeansProjects/Algo%20Data%20Structure/src/graph/adjacentListGraph/DepthFirstSearch.java</file>
+            <file>file:/C:/Users/glee/OneDrive%20-%20Lander%20University/Documents/NetBeansProjects/Algo%20Data%20Structure/src/graph/adjListGraph/AdjacentListGraph.java</file>
+            <file>file:/C:/Users/glee/OneDrive%20-%20Lander%20University/Documents/NetBeansProjects/Algo%20Data%20Structure/src/linkedLists/DoublyLinkedList.java</file>
+            <file>file:/C:/Users/glee/OneDrive%20-%20Lander%20University/Documents/NetBeansProjects/Algo%20Data%20Structure/src/linkedLists/MatchHTML.java</file>
+            <file>file:/C:/Users/glee/OneDrive%20-%20Lander%20University/Documents/NetBeansProjects/Algo%20Data%20Structure/src/linkedLists/Queue.java</file>
+            <file>file:/C:/Users/glee/OneDrive%20-%20Lander%20University/Documents/NetBeansProjects/Algo%20Data%20Structure/src/linkedLists/Deque.java</file>
+            <file>file:/C:/Users/glee/OneDrive%20-%20Lander%20University/Documents/NetBeansProjects/Algo%20Data%20Structure/src/heaps/MaxPriorityQueue.java</file>
+            <file>file:/C:/Users/glee/OneDrive%20-%20Lander%20University/Documents/NetBeansProjects/Algo%20Data%20Structure/src/graph/adjacentListGraph/DetectCycle.java</file>
+            <file>file:/C:/Users/glee/OneDrive%20-%20Lander%20University/Documents/NetBeansProjects/Algo%20Data%20Structure/src/linkedLists/Stack.java</file>
+            <file>file:/C:/Users/glee/OneDrive%20-%20Lander%20University/Documents/NetBeansProjects/Algo%20Data%20Structure/src/linkedLists/DoublyLinkedListNode.java</file>
+            <file>file:/C:/Users/glee/OneDrive%20-%20Lander%20University/Documents/NetBeansProjects/Algo%20Data%20Structure/src/sort/QuickSort.java</file>
+            <file>file:/C:/Users/glee/OneDrive%20-%20Lander%20University/Documents/NetBeansProjects/Algo%20Data%20Structure/src/linkedLists/LinkedQueue.java</file>
+            <file>file:/C:/Users/glee/OneDrive%20-%20Lander%20University/Documents/NetBeansProjects/Algo%20Data%20Structure/src/graph/GraphNode.java</file>
+            <file>file:/C:/Users/glee/OneDrive%20-%20Lander%20University/Documents/NetBeansProjects/Algo%20Data%20Structure/src/linkedLists/LinkedListNode.java</file>
+            <file>file:/C:/Users/glee/OneDrive%20-%20Lander%20University/Documents/NetBeansProjects/Algo%20Data%20Structure/src/graph/adjacentListGraph/MSTKruksal.java</file>
+        </group>
+    </open-files>
+</project-private>
